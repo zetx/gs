@@ -1,0 +1,4 @@
+Version: 3.3.1
+Based on ReShade: 4.9.1.1003+ x64
+Based on ReShade: 4.9.1.1002+ x86
+Release Date: 06/19/2021
